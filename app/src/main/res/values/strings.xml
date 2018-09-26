@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="pp_placeholder">Próxima</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="ranking">Ranking</string>
+</resources>
